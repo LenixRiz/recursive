@@ -19,4 +19,4 @@ public class Rekursif_faktorial {
     System.out.println("Hasil Faktorial dari "+ bil+" = "+hasil);
   }
 }
-Footer
+
